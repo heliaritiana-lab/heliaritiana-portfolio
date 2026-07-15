@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"/c/Users/Administrateur/.claude/projects/D--Fify-Epitech-m-moire-portfolio/memory/\")",
+      "Bash(npx --version)"
+    ]
+  }
+}

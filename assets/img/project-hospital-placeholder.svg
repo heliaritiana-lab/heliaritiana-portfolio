@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400">
+  <rect width="640" height="400" fill="#F7F8FC"/>
+  <rect x="60" y="230" width="60" height="120" fill="#061BB0" opacity="0.25"/>
+  <rect x="140" y="180" width="60" height="170" fill="#061BB0" opacity="0.35"/>
+  <rect x="220" y="140" width="60" height="210" fill="#061BB0" opacity="0.45"/>
+  <rect x="300" y="200" width="60" height="150" fill="#D8CE00" opacity="0.55"/>
+  <rect x="380" y="100" width="60" height="250" fill="#061BB0" opacity="0.55"/>
+  <polyline points="60,260 140,220 220,190 300,240 380,120 460,150" fill="none" stroke="#D8CE00" stroke-width="4"/>
+  <text x="320" y="380" font-family="Inter, sans-serif" font-size="16" fill="#4A4A4A" text-anchor="middle">Aperçu du projet à venir</text>
+</svg>
