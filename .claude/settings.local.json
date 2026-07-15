@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(ls \"/c/Users/Administrateur/.claude/projects/D--Fify-Epitech-m-moire-portfolio/memory/\")",
-      "Bash(npx --version)"
+      "Bash(npx --version)",
+      "Read(//c/Users/Administrateur/AppData/Local/Temp/**)",
+      "Read(//c/Users/Administrateur/Downloads/**)",
+      "Bash(cp \"/c/Users/Administrateur/Downloads/Photo Carbone Group .png\" \"/d/Fify/Epitech/mémoire/portfolio/assets/img/profile.png\" && ls -la \"/d/Fify/Epitech/mémoire/portfolio/assets/img/profile.png\")"
     ]
   }
 }
